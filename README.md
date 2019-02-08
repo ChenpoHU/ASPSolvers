@@ -1,5 +1,5 @@
 # ASPSolvers
-ASP Solvers for solving japanese games.<br />
+ASP Solvers for solving puzzles/labyrinth games.<br />
 These 3 game solvers are to solve the excercise tasks given by University Potsdam by Prof. Dr. Schaub in the Institut für Informatik.<br />
 # For further knowledges please check:
 1) https://www.youtube.com/channel/UCnvoHDf9RqBJxKPSGdToLzA/videos<br />

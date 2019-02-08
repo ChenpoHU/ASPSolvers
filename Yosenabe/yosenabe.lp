@@ -1,5 +1,5 @@
 % INSERT NAMES AND EMAIL ADDRESSES OF YOUR GROUP MEMBERS:
-% Chenpo Hu chenphu@uni-potsdam.de
+%
 %
 
 

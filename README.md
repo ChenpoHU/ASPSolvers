@@ -12,3 +12,4 @@ or<br />
 $ clingo-5.3.0 instance01.lp yosenabe.lp<br />
 or<br />
 $ clingo --opt-mode=optN mino.lp example.lp<br />
+$ clingo --opt-mode=optN mino_improved.lp example.lp<br />
